@@ -1,159 +1,267 @@
 #EXTM3U
 #EXTINF:-1,La Red
-http://200.39.137.5:8000/play/a006
+http://tv.iconex.cl:8000/play/a09m
+#EXTINF:-1,La Red HD
+http://tv.iconex.cl:8000/play/a00h
 #EXTINF:-1,CHV
-http://200.39.137.5:8000/play/a009
+http://tv.iconex.cl:8000/play/a09e
 #EXTINF:-1,CHV HD
-http://200.39.137.5:8000/play/a04k
+http://tv.iconex.cl:8000/play/a065
+#EXTINF:-1 tvg-logo="http://172.16.14.21/lista/mega.jpg", Mega
+http://tv.iconex.cl:8000/play/a09k
 #EXTINF:-1 tvg-logo="http://172.16.14.21/lista/mega.jpg", Mega Chile HD
-http://200.39.137.5:8000/play/a008
-#EXTINF:-1 tvg-logo="http://172.16.14.21/lista/mega.jpg", Mega Chile HD
-http://200.39.137.5:8000/play/a04s
-#EXTINF:-1 tvg-logo="http://172.16.14.21/lista/tvn.png",TVN Chile
-http://200.39.137.5:8000/play/a007
+http://tv.iconex.cl:8000/play/a00i
+#EXTINF:-1,TVN
+http://tv.iconex.cl:8000/play/a09i
 #EXTINF:-1 tvg-logo="http://172.16.14.21/lista/tvn.png",TVN Chile HD
-http://200.39.137.5:8000/play/a04j
+http://tv.iconex.cl:8000/play/a064
 #EXTINF:-1 tvg-logo="http://172.16.14.21/lista/canal13.jpg",13 Chile
-http://200.39.137.5:8000/play/a00a
-#EXTINF:-1,TV Educa Chile
-http://200.39.137.5:8000/play/a00o
-#EXTINF:-1 tvg-logo="http://172.16.14.21/lista/24hrs.png", 24 HORAS Chile
-http://200.39.137.5:8000/play/a00m
+http://tv.iconex.cl:8000/play/a0a4
+#EXTINF:-1,Canal 13 HD
+http://tv.iconex.cl:8000/play/a00k
+#EXTINF:-1,24 Horas
+http://tv.iconex.cl:8000/play/a09o
+#EXTINF:-1,Canal 24 Horas HD
+http://tv.iconex.cl:8000/play/a06o
 #EXTINF:-1,CNN Chile
-http://200.39.137.5:8000/play/a031
+http://tv.iconex.cl:8000/play/a09j
+#EXTINF:-1,CNN Chile HD
+http://tv.iconex.cl:8000/play/a014
 #EXTINF:-1,CNN Espanol
-http://200.39.137.5:8000/play/a005
+http://tv.iconex.cl:8000/play/a08s
+#EXTINF:-1,TV EDUCA
+http://tv.iconex.cl:8000/play/a07p
+#EXTINF:-1,NTV
+http://tv.iconex.cl:8000/play/a055
 #EXTINF:-1,Cartoon Network
-http://200.39.137.5:8000/play/a034
+http://tv.iconex.cl:8000/play/a081
+#EXTINF:-1,Cartoon Network HD
+http://tv.iconex.cl:8000/play/a05e
 #EXTINF:-1,Discovery Kids
-http://200.39.137.5:8000/play/a004
+http://tv.iconex.cl:8000/play/a082
+#EXTINF:-1,Discovery Kids HD
+http://tv.iconex.cl:8000/play/a03v
 #EXTINF:-1,Disney Channel
-http://200.39.137.5:8000/play/a00q
+http://tv.iconex.cl:8000/play/a09l
 #EXTINF:-1,Disney HD
-http://200.39.137.5:8000/play/a04m
+http://tv.iconex.cl:8000/play/a067
 #EXTINF:-1,Disney Jr
-http://200.39.137.5:8000/play/a00l
+http://tv.iconex.cl:8000/play/a084
 #EXTINF:-1,Disney XD
-http://200.39.137.5:8000/play/a02r
+http://tv.iconex.cl:8000/play/a083
 #EXTINF:-1,NatGeo Kids
-http://200.39.137.5:8000/play/a033
+http://tv.iconex.cl:8000/play/a085
+#EXTINF:-1,Nat Geo Kids HD
+http://tv.iconex.cl:8000/play/a06c
 #EXTINF:-1,Nick Jr
-http://200.39.137.5:8000/play/a03n
+http://tv.iconex.cl:8000/play/a086
 #EXTINF:-1,Nickelodeon
-http://200.39.137.5:8000/play/a02q
+http://tv.iconex.cl:8000/play/a087
+#EXTINF:-1,HBO POP HD
+http://tv.iconex.cl:8000/play/a01d
 #EXTINF:-1,HBO
-http://200.39.137.5:8000/play/a03h
+http://tv.iconex.cl:8000/play/a08b
 #EXTINF:-1,HBO HD
-http://200.39.137.5:8000/play/a04y
+http://tv.iconex.cl:8000/play/a05l
 #EXTINF:-1,HBO 2
-http://200.39.137.5:8000/play/a00h
+http://tv.iconex.cl:8000/play/a091
 #EXTINF:-1,HBO Family
-http://200.39.137.5:8000/play/a00k
+http://tv.iconex.cl:8000/play/a092
 #EXTINF:-1,HBO Plus
-http://200.39.137.5:8000/play/a00i
-#EXTINF:-1,HBO XTREME SD
-http://200.39.137.5:8000/play/a00j
+http://tv.iconex.cl:8000/play/a093
+#EXTINF:-1,HBO XTREME
+http://tv.iconex.cl:8000/play/a09g
 #EXTINF:-1,TNT
-http://200.39.137.5:8000/play/a035
+http://tv.iconex.cl:8000/play/a08j
 #EXTINF:-1,TNT HD
-http://200.39.137.5:8000/play/a04n
+http://tv.iconex.cl:8000/play/a0a2
+#EXTINF:-1,TNT Series HD
+http://tv.iconex.cl:8000/play/a00z
 #EXTINF:-1,Cinecanal
-http://200.39.137.5:8000/play/a02u
+http://tv.iconex.cl:8000/play/a08a
+#EXTINF:-1,Cinecanal HD
+http://tv.iconex.cl:8000/play/a05a
 #EXTINF:-1,Cinemax
-http://200.39.137.5:8000/play/a03i
+http://tv.iconex.cl:8000/play/a098
+#EXTINF:-1,Cinemax HD
+http://tv.iconex.cl:8000/play/a06h
 #EXTINF:-1,I-Sat
-http://200.39.137.5:8000/play/a02x
-#EXTINF:-1,Sony
-http://200.39.137.5:8000/play/a03j
-#EXTINF:-1,Universal
-http://200.39.137.5:8000/play/a02v
-#EXTINF:-1,Warner
-http://200.39.137.5:8000/play/a061
-#EXTINF:-1,Space
-http://200.39.137.5:8000/play/a03l
-#EXTINF:-1,FOX P ACTION
-http://200.39.137.5:8000/play/a00g
-#EXTINF:-1,FOX P MOVIES
-http://200.39.137.5:8000/play/a00e
-#EXTINF:-1,FOX P SERIES E
-http://200.39.137.5:8000/play/a00f
-#EXTINF:-1,FX
-http://200.39.137.5:8000/play/a03m
-#EXTINF:-1,FX Movies
-http://200.39.137.5:8000/play/a00b
-#EXTINF:-1,Fox Channel
-http://200.39.137.5:8000/play/a02w
-#EXTINF:-1,Fox Life
-http://200.39.137.5:8000/play/a030
+http://tv.iconex.cl:8000/play/a08c
+#EXTINF:-1,Golden HD
+http://tv.iconex.cl:8000/play/a05p
+#EXTINF:-1,TRUTV HD
+http://tv.iconex.cl:8000/play/a06k
 #EXTINF:-1,AE Mundo
-http://200.39.137.5:8000/play/a011
+http://tv.iconex.cl:8000/play/a088
+#EXTINF:-1,TV+ HD
+http://tv.iconex.cl:8000/play/a056
+#EXTINF:-1,Sony
+http://tv.iconex.cl:8000/play/a08e
+#EXTINF:-1,Sony HD
+http://tv.iconex.cl:8000/play/a017
+#EXTINF:-1,Universal
+http://tv.iconex.cl:8000/play/a08k
+#EXTINF:-1,Universal HD
+http://tv.iconex.cl:8000/play/a00s
+#EXTINF:-1,Studio Universal HD
+http://tv.iconex.cl:8000/play/a05g
+#EXTINF:-1,Warner
+http://tv.iconex.cl:8000/play/a09f
+#EXTINF:-1,Warner Channel HD
+http://tv.iconex.cl:8000/play/a018
+#EXTINF:-1,Sun Channel HD
+http://tv.iconex.cl:8000/play/a00m
+#EXTINF:-1,Space
+http://tv.iconex.cl:8000/play/a08g
+#EXTINF:-1,Space HD
+http://tv.iconex.cl:8000/play/a01a
+#EXTINF:-1,AMC HD
+http://tv.iconex.cl:8000/play/a05b
+#EXTINF:-1,Comedy Central HD
+http://tv.iconex.cl:8000/play/a06i
+#EXTINF:-1,STAR Comedy HD
+http://tv.iconex.cl:8000/play/a06v
+#EXTINF:-1,STAR FUN HD
+http://tv.iconex.cl:8000/play/a01g
+#EXTINF:-1,STAR HITS HD
+http://tv.iconex.cl:8000/play/a06w
+#EXTINF:-1,STAR Channel
+http://tv.iconex.cl:8000/play/a09b
+#EXTINF:-1,STAR Channel HD
+http://tv.iconex.cl:8000/play/a00r
+#EXTINF:-1,STAR Life
+http://tv.iconex.cl:8000/play/a08u
+#EXTINF:-1,STAR Life HD
+http://tv.iconex.cl:8000/play/a071
+#EXTINF:-1,STAR Action
+http://tv.iconex.cl:8000/play/a08v
+#EXTINF:-1,STAR ACTION HD
+http://tv.iconex.cl:8000/play/a073
+#EXTINF:-1,STAR Series
+http://tv.iconex.cl:8000/play/a08x
+#EXTINF:-1,STAR Series HD
+http://tv.iconex.cl:8000/play/a00w
+#EXTINF:-1,FX
+http://tv.iconex.cl:8000/play/a08z
+#EXTINF:-1,FX HD
+http://tv.iconex.cl:8000/play/a010
+#EXTINF:-1,FX Movies
+http://tv.iconex.cl:8000/play/a090
+#EXTINF:-1,FX Movies HD
+http://tv.iconex.cl:8000/play/a05m
+#EXTINF:-1,A&E
+http://tv.iconex.cl:8000/play/a016
+#EXTINF:-1,A&E HD
+http://tv.iconex.cl:8000/play/a016
 #EXTINF:-1,AXN
-http://200.39.137.5:8000/play/a062
+http://tv.iconex.cl:8000/play/a09d
+#EXTINF:-1,AXN HD
+http://tv.iconex.cl:8000/play/a019
 #EXTINF:-1,Canal de Las estrellas
-http://200.39.137.5:8000/play/a01f
+http://tv.iconex.cl:8000/play/a089
 #EXTINF:-1,RCN Novelas
-http://200.39.137.5:8000/play/a03c
+http://tv.iconex.cl:8000/play/a08d
 #EXTINF:-1,TBS
-http://200.39.137.5:8000/play/a03e
+http://tv.iconex.cl:8000/play/a08f
 #EXTINF:-1,TCM
-http://200.39.137.5:8000/play/a032
+http://tv.iconex.cl:8000/play/a08h
+#EXTINF:-1,Paramount HD
+http://tv.iconex.cl:8000/play/a05f
 #EXTINF:-1,Telemundo
-http://200.39.137.5:8000/play/a01i
-#EXTINF:-1,Discovery Channel
-http://200.39.137.5:8000/play/a00r
-#EXTINF:-1,History Channel
-http://200.39.137.5:8000/play/a02t
+http://tv.iconex.cl:8000/play/a08i
+#EXTINF:-1,Pasiones HD
+http://tv.iconex.cl:8000/play/a066
+#EXTINF:-1,Discovery
+http://tv.iconex.cl:8000/play/a08m
+#EXTINF:-1,Discovery HD
+http://tv.iconex.cl:8000/play/a06t
+#EXTINF:-1,History
+http://tv.iconex.cl:8000/play/a094
+#EXTINF:-1,History HD
+http://tv.iconex.cl:8000/play/a015
+#EXTINF:-1,History 2 HD
+http://tv.iconex.cl:8000/play/a06y
+#EXTINF:-1,Discovery Theater HD
+http://tv.iconex.cl:8000/play/a03x
+#EXTINF:-1,Discovery World HD
+http://tv.iconex.cl:8000/play/a059
 #EXTINF:-1,Discovery ID
-http://200.39.137.5:8000/play/a03d
+http://tv.iconex.cl:8000/play/a08n
+#EXTINF:-1,Discovery ID HD
+http://tv.iconex.cl:8000/play/a06j
 #EXTINF:-1,Discovery Turbo
-http://200.39.137.5:8000/play/a03o
-#EXTINF:-1,Home and Health
-http://200.39.137.5:8000/play/a03f
+http://tv.iconex.cl:8000/play/a08o
+#EXTINF:-1,Discovery H&H
+http://tv.iconex.cl:8000/play/a08r
+#EXTINF:-1,Discovery H&H HD
+http://tv.iconex.cl:8000/play/a03w
+#EXTINF:-1,DHE HD
+http://tv.iconex.cl:8000/play/a06s
 #EXTINF:-1,Travel and Living
-http://200.39.137.5:8000/play/a01d
+http://tv.iconex.cl:8000/play/a07o
 #EXTINF:-1,E Entertainment
-http://200.39.137.5:8000/play/a00u
+http://tv.iconex.cl:8000/play/a08t
 #EXTINF:-1,Animal Planet
-http://200.39.137.5:8000/play/a00s
+http://tv.iconex.cl:8000/play/a08l
+#EXTINF:-1,Animal Planet HD
+http://tv.iconex.cl:8000/play/a0a5
 #EXTINF:-1,Nat Geo
-http://200.39.137.5:8000/play/a02s
+http://tv.iconex.cl:8000/play/a07n
 #EXTINF:-1,Nat Geo HD
-http://200.39.137.5:8000/play/a04t
+http://tv.iconex.cl:8000/play/a058
+#EXTINF:-1,Nat Geo Wild HD
+http://tv.iconex.cl:8000/play/a00q
 #EXTINF:-1,El Gourmet HD
-http://200.39.137.5:8000/play/a04p
+http://tv.iconex.cl:8000/play/a06l
+#EXTINF:-1,Food Network HD
+http://tv.iconex.cl:8000/play/a05y
 #EXTINF:-1,Enlace
-http://200.39.137.5:8000/play/a039
+http://tv.iconex.cl:8000/play/a08p
 #EXTINF:-1,EsneTV
-http://200.39.137.5:8000/play/a03p
+http://tv.iconex.cl:8000/play/a08q
 #EXTINF:-1,TVE
-http://200.39.137.5:8000/play/a03a
+http://tv.iconex.cl:8000/play/a07q
 #EXTINF:-1,TNT Sports 2
-http://200.39.137.5:8000/play/a064
+http://tv.iconex.cl:8000/play/a09c
 #EXTINF:-1,TNT Sports 3
-http://200.39.137.5:8000/play/a010
-#EXTINF:-1,TNT Sport HD
-http://200.39.137.5:8000/play/a06p
+http://tv.iconex.cl:8000/play/a0a6
+#EXTINF:-1,TNT SPORTS HD
+http://tv.iconex.cl:8000/play/a009
 #EXTINF:-1,Fox Sports
-http://200.39.137.5:8000/play/a00v
+http://tv.iconex.cl:8000/play/a08y
+#EXTINF:-1,Fox Sports HD
+http://tv.iconex.cl:8000/play/a06x
 #EXTINF:-1,FOX Sport 2
-http://200.39.137.5:8000/play/a03x
+http://tv.iconex.cl:8000/play/a07u
+#EXTINF:-1,FOX Sports 2 HD
+http://tv.iconex.cl:8000/play/a043
 #EXTINF:-1,FOX Sport 3
-http://200.39.137.5:8000/play/a03y
+http://tv.iconex.cl:8000/play/a07v
+#EXTINF:-1,Fox Sports 3 HD
+http://tv.iconex.cl:8000/play/a06b
 #EXTINF:-1,FOX Sport Premium
-http://200.39.137.5:8000/play/a03z
+http://tv.iconex.cl:8000/play/a09h
+#EXTINF:-1,ESPN EXTRA HD
+http://tv.iconex.cl:8000/play/a05c
 #EXTINF:-1,ESPN
-http://200.39.137.5:8000/play/a00n
+http://tv.iconex.cl:8000/play/a07s
+#EXTINF:-1,ESPN HD
+http://tv.iconex.cl:8000/play/a050
 #EXTINF:-1,ESPN 2
-http://200.39.137.5:8000/play/a00x
+http://tv.iconex.cl:8000/play/a07r
+#EXTINF:-1,ESPN 2 HD
+http://tv.iconex.cl:8000/play/a04r
 #EXTINF:-1,ESPN 3
-http://200.39.137.5:8000/play/a03q
+http://tv.iconex.cl:8000/play/a07t
+#EXTINF:-1,ESPN 3 HD
+http://tv.iconex.cl:8000/play/a06a
 #EXTINF:-1,GOL TV
-http://200.39.137.5:8000/play/a00y
+http://tv.iconex.cl:8000/play/a07w
 #EXTINF:-1,TyC Sports
-http://200.39.137.5:8000/play/a00z
+http://tv.iconex.cl:8000/play/a07y
 #EXTINF:-1,MTV
-http://200.39.137.5:8000/play/a02y
+http://tv.iconex.cl:8000/play/a09n
 #EXTINF:-1,ViaX
-http://200.39.137.5:8000/play/a01e
+http://tv.iconex.cl:8000/play/a07z
 #EXTINF:-1,Zona Latina
-http://200.39.137.5:8000/play/a02z
+http://tv.iconex.cl:8000/play/a080

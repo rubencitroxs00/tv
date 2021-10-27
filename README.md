@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1,La Red
 http://tv.iconex.cl:8000/play/a09m
 #EXTINF:-1,La Red HD
